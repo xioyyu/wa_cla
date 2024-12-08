@@ -191,9 +191,9 @@ payload:
   - DOMAIN-SUFFIX,i109.com
 
 #HKA
-  - DOMAIN-SUFFIX,http://hka-emby.aliz.work
-  - DOMAIN-SUFFIX,http://hka-emby1.aliz.work
-  - DOMAIN-SUFFIX,http://hka-emby2.aliz.work
+  - DOMAIN-SUFFIX,hka-emby.aliz.work
+  - DOMAIN-SUFFIX,hka-emby1.aliz.work
+  - DOMAIN-SUFFIX,hka-emby2.aliz.work
 
 #
 
