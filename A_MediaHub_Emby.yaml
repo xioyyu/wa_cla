@@ -26,6 +26,9 @@ payload:
 #探花 TV 主线路
   - DOMAIN-SUFFIX,tanhuatv.site
 
+#AuroraMedia
+  - DOMAIN-SUFFIX,abc.auroramedia.vip
+
 #Emby-Porn
   - DOMAIN-SUFFIX,pornemby.com
 
