@@ -29,6 +29,10 @@ payload:
 #AuroraMedia
   - DOMAIN-SUFFIX,abc.auroramedia.vip
 
+#牢大
+  - DOMAIN-SUFFIX,emby-mica-us-v1.mius.uk
+
+
 #Emby-Porn
   - DOMAIN-SUFFIX,pornemby.com
 
