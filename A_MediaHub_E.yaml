@@ -18,11 +18,6 @@ payload:
   - DOMAIN-SUFFIX,emby.aca.best
   - DOMAIN,aca.misakaf.org      # ACA 机场服主线路
 
-#HKA
-  - DOMAIN-SUFFIX,hka-emby3.aliz.work
-  - DOMAIN-SUFFIX,hka-emby.aliz.work
-  - DOMAIN-SUFFIX,hka-emby1.aliz.work
-  - DOMAIN-SUFFIX,hka-emby2.aliz.work
 
 #探花 TV 主线路
   - DOMAIN-SUFFIX,tanhuatv.site
@@ -30,12 +25,6 @@ payload:
 #AuroraMedia
   - DOMAIN-SUFFIX,abc.auroramedia.vip
 
-#牢大
-  - DOMAIN-SUFFIX,emby-mica-us-v1.mius.uk
-  - DOMAIN-SUFFIX,emby-micax-ca-v2.mius.uk  
-  - DOMAIN-SUFFIX,emby-mica-hk-v4.mius.uk
-  - DOMAIN-SUFFIX,emby-mica-yxvm-hk-v4.mius.uk
-  - DOMAIN-SUFFIX,emby-mica-hk3-v4.mius.uk
   
 #Emby-Porn
   - DOMAIN-SUFFIX,pornemby.com
