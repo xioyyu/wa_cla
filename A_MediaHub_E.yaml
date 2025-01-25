@@ -6,26 +6,32 @@ payload:
   # 本地分流规则(相同规则下，本地规则将覆盖远程规则，优先生效)↓↓↓↓↓↓↓↓↓
 
 # > ↓↓↓↓↓↓↓↓↓（Emby影视的分流）↓↓↓↓↓↓↓↓↓
-#Emby-MisakaF
-  - DOMAIN-SUFFIX,misakaf.org
-  - DOMAIN-SUFFIX,emby.misakaf.org
-  - DOMAIN-SUFFIX,102.223.180.108
-  - DOMAIN-SUFFIX,push-kr.misakaf.org
-  - DOMAIN-SUFFIX,stream1.misakaf.org
-  - DOMAIN-SUFFIX,stream2.misakaf.org
-  - DOMAIN-SUFFIX,stream3.misakaf.org
-  - DOMAIN-SUFFIX,stream4.misakaf.org
-  - DOMAIN-SUFFIX,emby.aca.best
-  - DOMAIN,aca.misakaf.org      # ACA 机场服主线路
+#牢大
+  - DOMAIN-SUFFIX,emby-mica-us-v1.mius.uk
+  - DOMAIN-SUFFIX,emby-micax-ca-v2.mius.uk  
+  - DOMAIN-SUFFIX,emby-mica-hk-v4.mius.uk
+  - DOMAIN-SUFFIX,emby-mica-yxvm-hk-v4.mius.uk
+  - DOMAIN-SUFFIX,emby-mica-hk3-v4.mius.uk
+  
+#Emby-纸片人
+  - DOMAIN-SUFFIX,embyplus.org
 
+#HKA
+  - DOMAIN-SUFFIX,hka-emby3.aliz.work
+  - DOMAIN-SUFFIX,hka-emby.aliz.work
+  - DOMAIN-SUFFIX,hka-emby1.aliz.work
+  - DOMAIN-SUFFIX,hka-emby2.aliz.work
 
 #探花 TV 主线路
   - DOMAIN-SUFFIX,tanhuatv.site
 
 #AuroraMedia
   - DOMAIN-SUFFIX,abc.auroramedia.vip
-
   
+#Emby-Temby
+  - DOMAIN-SUFFIX,temby.285286.xyz
+  - DOMAIN-SUFFIX,temby4837.285286.xyz.top
+
 #Emby-Porn
   - DOMAIN-SUFFIX,pornemby.com
 
@@ -47,9 +53,6 @@ payload:
   - DOMAIN-SUFFIX,free.xmsl.org
   - DOMAIN-SUFFIX,ccde.loseremby.org
   - DOMAIN-SUFFIX,new.emby.moe
-
-#Emby-纸片人
-  - DOMAIN-SUFFIX,embyplus.org
 
 #Emby-infinityfly
   - DOMAIN-SUFFIX,aws-sg.669998.xyz
@@ -143,9 +146,6 @@ payload:
 #Emby-TreeDiagram
   - DOMAIN-SUFFIX,789.123456.al
 
-#Emby-Temby
-  - DOMAIN-SUFFIX,temby.285286.xyz
-  - DOMAIN-SUFFIX,temby4837.285286.xyz.top
 
 #Emby-Singularity（新瓜）
   - DOMAIN-SUFFIX,singularity.bagpipe.moe
@@ -187,6 +187,18 @@ payload:
   - DOMAIN-SUFFIX,emby.jzq.lol
   - DOMAIN-SUFFIX,emby.cbcb.lol
 
+#Emby-MisakaF
+#  - DOMAIN-SUFFIX,misakaf.org
+#  - DOMAIN-SUFFIX,emby.misakaf.org
+#  - DOMAIN-SUFFIX,102.223.180.108
+#  - DOMAIN-SUFFIX,push-kr.misakaf.org
+#  - DOMAIN-SUFFIX,stream1.misakaf.org
+#  - DOMAIN-SUFFIX,stream2.misakaf.org
+#  - DOMAIN-SUFFIX,stream3.misakaf.org
+#  - DOMAIN-SUFFIX,stream4.misakaf.org
+#  - DOMAIN-SUFFIX,emby.aca.best
+#  - DOMAIN,aca.misakaf.org      # ACA 机场服主线路
+
 # > ↓↓↓↓↓↓↓↓↓（Emby机场服的分流）↓↓↓↓↓↓↓↓↓
 #Emby-HXD（好鸭机场服）
   - DOMAIN-SUFFIX,bili.bili.rip
@@ -202,7 +214,7 @@ payload:
 #Emby-heisi
   - DOMAIN-SUFFIX,i109.com
 
-#
+
 # > ↓↓↓↓↓↓↓↓↓（Emby音乐的分流）↓↓↓↓↓↓↓↓↓
 #Paul-电报服
   - DOMAIN-SUFFIX,chunmusic.imetyou.top
