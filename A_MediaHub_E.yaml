@@ -46,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,cf.xmsl.org
   - DOMAIN-SUFFIX,free.xmsl.org
   - DOMAIN-SUFFIX,ccde.loseremby.org
+  - DOMAIN-SUFFIX,new.emby.moe
 
 #Emby-纸片人
   - DOMAIN-SUFFIX,embyplus.org
