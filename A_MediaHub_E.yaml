@@ -26,8 +26,11 @@ payload:
   - DOMAIN-SUFFIX,tanhuatv.site
 
 #AuroraMedia
-  - DOMAIN-SUFFIX,abc.auroramedia.vip
-  
+  - DOMAIN-SUFFIX,auroramedia.vip
+
+#惊蛰EMBY
+  - DOMAIN-SUFFIX,emby.jingzhe.pro
+
 #Emby-Temby
   - DOMAIN-SUFFIX,temby.285286.xyz
   - DOMAIN-SUFFIX,temby4837.285286.xyz.top
