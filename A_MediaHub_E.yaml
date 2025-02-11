@@ -31,6 +31,10 @@ payload:
 #惊蛰EMBY
   - DOMAIN-SUFFIX,emby.jingzhe.pro
   - DOMAIN-SUFFIX,stream2.jingzhe.pro
+
+#比比EMBY
+  - DOMAIN-SUFFIX,beebi.org
+  
 #Emby-Temby
   - DOMAIN-SUFFIX,temby.285286.xyz
   - DOMAIN-SUFFIX,temby4837.285286.xyz.top
