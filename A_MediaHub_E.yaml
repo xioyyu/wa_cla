@@ -27,6 +27,7 @@ payload:
 
 #AuroraMedia
   - DOMAIN-SUFFIX,auroramedia.vip
+  - DOMAIN-SUFFIX,ad.auroramedia.vip
 
 #惊蛰EMBY
   - DOMAIN-SUFFIX,emby.jingzhe.pro
