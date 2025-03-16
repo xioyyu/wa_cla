@@ -44,6 +44,9 @@ payload:
 #云上EMBY
 #  - DOMAIN-SUFFIX,s.outong-valve.com
 
+#SaturDay.Lite
+  - DOMAIN-SUFFIX,lite.saturday.video
+
   
 #Emby-Temby
   - DOMAIN-SUFFIX,temby.285286.xyz
