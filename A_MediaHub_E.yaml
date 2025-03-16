@@ -40,6 +40,10 @@ payload:
 
 #比比EMBY
   - DOMAIN-SUFFIX,beebi.org
+
+#云上EMBY
+  - DOMAIN-SUFFIX,s.outong-valve.com
+
   
 #Emby-Temby
   - DOMAIN-SUFFIX,temby.285286.xyz
