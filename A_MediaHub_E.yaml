@@ -42,7 +42,7 @@ payload:
   - DOMAIN-SUFFIX,beebi.org
 
 #云上EMBY
-  - DOMAIN-SUFFIX,s.outong-valve.com
+#  - DOMAIN-SUFFIX,s.outong-valve.com
 
   
 #Emby-Temby
