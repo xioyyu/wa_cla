@@ -1,0 +1,6 @@
+# Speedtest1
+# behavior: classical
+# format: yaml
+payload:
+#
+  - DOMAIN-SUFFIX,ping0.cc
