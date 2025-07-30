@@ -1,7 +1,0 @@
-# Speedtest1
-# behavior: classical
-# format: yaml
-payload:
-#
-  - DOMAIN,ping0.cc
-  - DOMAIN,ip.sb
